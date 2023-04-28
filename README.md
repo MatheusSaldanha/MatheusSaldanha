@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MatheusSaldanha
 - 👀 I’m interested in Back end
 - 🌱 I’m currently learning Data Structure, Python, Software Engineering and Database
-- 💞️ I’m looking to collaborate on project in my university
 - 📫 How to reach me on my e-mail saldanhamatheus290@gmail.com
 
 <!---
